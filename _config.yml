@@ -99,11 +99,12 @@ author:
   foursquare       :
   github           : "ZijingWu381"
   google_plus      :
-  keybase          :
+  keybase          : 
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "zijing-miles-wu"
+  mastodon         : "https://neuromatch.social/@ZijingWu"
   orcid            : "https://orcid.org/0009-0006-8614-6255"
   pinterest        :
   soundcloud       :
@@ -116,6 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  goodreads        : 
 
 
 # Reading Files
