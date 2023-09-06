@@ -18,7 +18,7 @@ My research interests lie in the intersection of machine learning and neuroscien
 
 ## News 
 - [Sep. 2023] Started as a Guest Researcher to continue our summer research. Also excited to continue our project on identifiable VAE for neural latent discovery!
-- [May. 2023] Posted a [arxiv preprint](https://arxiv.org/abs/2306.06138) on using Denoising Diffusion Models for neural latent alignment. Thanks to my [PhD mentor](https://www.cc.gatech.edu/people/yule-wang) and the team for this wonderful collaboration!
+- [May. 2023] Posted a [arxiv preprint](https://arxiv.org/abs/2306.06138) on using Denoising Diffusion Models for neural latent alignment. 
 - [Mar. 2023] Started my research internship at [Simons Foundation](https://www.simonsfoundation.org/)'s [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/). I will be joining [Dr. Sueyeon Chung](https://sites.google.com/site/sueyeonchung/)'s group.
 - [Apr. 2022] Awarded [President's Undergraduate Research Award](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards) to continue my research on identifiable VAE in Summer 2022.
 
