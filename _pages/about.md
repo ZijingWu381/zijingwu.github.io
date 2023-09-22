@@ -17,7 +17,7 @@ My research interests lie in the intersection of machine learning and neuroscien
  -->
 
 ## News 
-- [Sep. 2023] Our paper "Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model" is accepted to [NeurIPS 2023](https://neurips.cc/) as a spotlight (top 3%)! 
+- [Sep. 2023] Our paper "Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model" is accepted to [NeurIPS 2023](https://neurips.cc/) as a spotlight paper (top 3%)! 
 - [Sep. 2023] Started as a Guest Researcher to continue our summer research. Also excited to continue our project on identifiable VAE for neural latent discovery!
 - [May. 2023] Posted our [arxiv preprint](https://arxiv.org/abs/2306.06138) on using Denoising Diffusion Models for neural latent alignment. 
 - [Mar. 2023] Started my research internship at [Simons Foundation](https://www.simonsfoundation.org/)'s [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/). I will be joining [Dr. Sueyeon Chung](https://sites.google.com/site/sueyeonchung/)'s group.
