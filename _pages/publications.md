@@ -18,4 +18,4 @@ author_profile: true
 
 <!-- publication -->
 
-[Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://openreview.net/forum?id=AuXd54odxm)
+[Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://openreview.net/pdf?id=AuXd54odxm)
