@@ -15,7 +15,7 @@ Currently, I am a Guest Researcher at the [Center for Computational Neuroscience
 Apart from academic life, I enjoy [reading](https://www.goodreads.com/user/show/96906289-zijing), playing table tennis and soccer, and listening to classical music and jazz.
 
 <!-- ## Research Interests
-My research interests lie in the intersection of machine learning and neuroscience. I am particularly interested in the following topics:
+My research interests lie in the intersection of machine learning and neuroscience. I am particularly interested in the following topics. 
  -->
 
 ## News 
